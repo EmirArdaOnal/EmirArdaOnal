@@ -19,15 +19,14 @@ I am studying Electrical and Electronics Engineering. I am interested in softwar
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-   <code><img title="Structured text" height="25" src="images/image-removebg-preview.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-
+  <img title="C" height="25" src="images/c.svg">
+  <img title="C++" height="25" src="images/cpp.svg">
+  <img title="C#" height="25" src="images/cSharp.svg">
+  <img title="Javascript" height="25" src="images/javascript.svg">
+  <img title="Structured text" height="25" src="images/image-removebg-preview.png">
+  <img title="HTML5" height="25" src="images/html5.svg">
+  <img title="CSS" height="25" src="images/css.svg">
+  <img title="Visual Studio Code" height="25" src="images/vscode.png">
 </p>
 <hr>
 
