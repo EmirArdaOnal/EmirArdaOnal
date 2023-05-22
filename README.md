@@ -23,7 +23,7 @@ I am studying Electrical and Electronics Engineering. I am interested in softwar
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-   <code><img title="Structured text" height="25" src="images/structuredtext.svg"></code>
+   <code><img title="Structured text" height="25" src="images/image-removebg-preview.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
