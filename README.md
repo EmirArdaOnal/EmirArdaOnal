@@ -11,7 +11,7 @@
 <br>
 <p align="center">
   Hello, I'm Emir Arda<br>
-I am studying Electrical and Electronics Engineering. I am interested in software development.
+I am studying Electrical and Electronics. I am interested in software development.
   <br>
 </p>
 
