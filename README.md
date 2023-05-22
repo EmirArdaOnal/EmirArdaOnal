@@ -16,7 +16,7 @@ I am studying Electrical and Electronics Engineering. I am interested in softwar
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Tools 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
   <img title="C" height="25" src="images/c.svg">
@@ -27,6 +27,7 @@ I am studying Electrical and Electronics Engineering. I am interested in softwar
   <img title="HTML5" height="25" src="images/html5.svg">
   <img title="CSS" height="25" src="images/css.svg">
   <img title="Visual Studio Code" height="25" src="images/vscode.png">
+
 </p>
 <hr>
 
