@@ -5,9 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+EmirArda....!&center=true&size=30">
 </h1>
 
-<h5 align="center">
-  <code> 
-</h5>
+
 <br>
 <p align="center">
   Hello, I'm Emir Arda<br>
