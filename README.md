@@ -5,15 +5,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+EmirArda....!&center=true&size=30">
 </h1>
 
- <code>
 <br>
 <p align="center">
   Hello, I'm Emir Arda<br>
 I am studying Electrical and Electronics. I am interested in Automation.
   <br>
 </p>
- </code>
-<hr>
+
+  <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
