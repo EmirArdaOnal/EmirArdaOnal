@@ -60,7 +60,7 @@ I am studying Electrical and Electronics. I am interested in Automation.
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/EmirArdaOnal/l298N-Motor-Driver" title="l298N-Motor-Driver"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmirArdaOnal&repo=l298N-Motor-Driver&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/EmirArdaOnal/L293-Motor-Driver" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmirArdaOnal&repo=L293-Motor-Driver&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/EmirArdaOnal/Giris-Cikis-Yansit" title="Giris-Cikis-Yansit"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmirArdaOnal&repo=Giris-Cikis-Yansit&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/EmirArdaOnal/L293-Motor-Driver" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmirArdaOnal&repo=L293-Motor-Driver&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
