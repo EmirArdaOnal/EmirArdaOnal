@@ -9,7 +9,7 @@
 <br>
 <p align="center">
   Hello, I'm Emir Arda<br>
-I am studying Electrical and Electronics. I am interested in software development.
+I am studying Electrical and Electronics. I am interested in Automation.
   <br>
 </p>
 
@@ -21,7 +21,7 @@ I am studying Electrical and Electronics. I am interested in software developmen
   <img title="C++" height="25" src="images/cpp.svg">
   <img title="C#" height="25" src="images/cSharp.svg">
   <img title="Javascript" height="25" src="images/javascript.svg">
-  <img title="Structured text" height="25" src="images/image-removebg-preview.png">
+  <img title="Structured Text" height="25" src="images/image-removebg-preview.png">
   <img title="HTML5" height="25" src="images/html5.svg">
   <img title="CSS" height="25" src="images/css.svg">
   <img title="Visual Studio Code" height="25" src="images/vscode.png">
