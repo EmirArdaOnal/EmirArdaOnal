@@ -60,12 +60,12 @@ I am studying Electrical and Electronics. I am interested in Automation.
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/EmirArdaOnal/Giris-Cikis-Yansit" title="Giris-Cikis-Yansit"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmirArdaOnal&repo=Giris-Cikis-Yansit&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/EmirArdaOnal/L293-Motor-Driver" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmirArdaOnal&repo=L293-Motor-Driver&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/EmirArdaOnal/Giris-Cikis-Yansit" title="Giris-Cikis-Yansit"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmirArdaOnal&repo=Giris-Cikis-Yansit&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/EmirArdaOnal/L293-Motor-Driver" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmirArdaOnal&repo=Giris-Cikis-Yansit&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/EmirArdaOnal/arduino-buzzer" title="arduino-buzzer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmirArdaOnal&repo=arduino-buzzer&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/EmirArdaOnal/HC-06-BT-Module" title="HC-06-BT-Module"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmirArdaOnal&repo=HC-06-BT-Module&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/EmirArdaOnal/HC-05-BT-Module" title="HC-05-Module"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmirArdaOnal&repo=HC-05-BT-Module&theme=react&border_color=61dafb&border_radius=10"></a>
+ 
 </div>
 <br/><br/><br/><br/><br/><br/>
 
