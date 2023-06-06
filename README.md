@@ -39,7 +39,7 @@ I am studying Electrical and Electronics. I am interested in Automation.
 <br>
 <p align=center>
   <div align=center>
-        <img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=EmirArdaOnal&amp;theme=react&amp;border=61dafb&amp;hide_border=true" alt="HilalWare">
+        <img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=EmirArdaOnal&amp;theme=react&amp;border=61dafb&amp;hide_border=true" alt="EmirArdaOnal">
 
 <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=EmirArdaOnal&amp;show_icons=true&amp;theme=react&amp;border_color=61dafb&amp;hide_border=true">
 
