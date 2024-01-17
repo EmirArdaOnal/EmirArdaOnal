@@ -24,6 +24,7 @@ I am studying Electrical and Electronics. I am interested in both software and e
 <br>
 <p align="center">
   <code><img title="PHP" height="25" src="images/PHP-logo.svg.svg"></code>
+    <code><img title="C++" height="25" src="images/cpp.svg"></code>
    <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
    <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
 
