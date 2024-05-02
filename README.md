@@ -8,7 +8,7 @@
 <br>
 <p align="center">
   Hello, I'm Emir Arda<br>
-I am studying Electrical and Electronics. I am interested in both software and electrical/electronic engineering.
+I am studying Electrical and Electronics. I am interested in both Software and Electrical/Electronic engineering, and I also have an interest in Cybersecurity.
   <br>
 </p>
 <h5 align="center">
