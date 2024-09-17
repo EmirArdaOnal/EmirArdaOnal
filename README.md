@@ -6,11 +6,11 @@
 </h1>
 
 <br>
-<p align="center">
-  Hello, I'm Emir Arda<br>
-I am studying Electrical and Electronics. I am interested in Software and Electrical/Electronic as well as Cybersecurity.
-  <br>
+<p align="center"> Hello, I'm Emir Arda.<br> As a graduate in Electrical and Electronics Maintenance and Repair,
+I have a strong interest in Software, Electrical/Electronic systems, and Cybersecurity. <br> 
 </p>
+
+
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/emirardaonal/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
