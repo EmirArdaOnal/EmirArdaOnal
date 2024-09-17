@@ -12,7 +12,7 @@ I am studying Electrical and Electronics. I am interested in Software and Electr
   <br>
 </p>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/emir-arda-önal/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/emirardaonal/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
   
   
