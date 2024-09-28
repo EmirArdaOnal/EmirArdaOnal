@@ -23,11 +23,9 @@ I have a strong interest in Software, Electrical/Electronic systems, and Cyberse
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="PHP" height="25" src="images/PHP-logo.svg.svg"></code>
-    <code><img title="C++" height="25" src="images/cpp.svg"></code>
-   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,php,js,nodejs,visualstudio,vscode,mysql,arduino,raspberrypi,discord,bots,discordjs,windows" />
+  </a>
 </p>
 <hr>
 
