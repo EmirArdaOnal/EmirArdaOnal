@@ -24,7 +24,7 @@ I have a strong interest in Software, Electrical/Electronic systems, and Cyberse
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,php,js,nodejs,visualstudio,vscode,mysql,arduino,raspberrypi,discord,bots,discordjs,windows" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,php,js,nodejs,visualstudio,vscode,mysql,arduino,raspberrypi,discord,bots,discordjs,windows" />
   </a>
 </p>
 <hr>
