@@ -6,9 +6,7 @@
 </h1>
 
 <br>
-<p align="center"> Hello, I'm Emir Arda.<br> As a graduate in Electrical and Electronics Maintenance and Repair,
-I have a strong interest in Software, Electrical/Electronic systems, and Cybersecurity. <br> 
-</p>
+<p align="center"> Hello, I'm Emir Arda. A graduate in Electrical and Electronics Maintenance and Repair, currently studying Web Design and Development.
 
 
 <h5 align="center">
